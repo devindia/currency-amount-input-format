@@ -1,4 +1,4 @@
-# About Angular-TextWrapper
+# About
 
 This package helps you to enter currency amount value in HTML input field.
 With this package you can enter the decimal values first, then you can enter the left side digits. 
@@ -72,7 +72,7 @@ Don't forget to add unique "id" for your input field
 </span>
 
 ```
-#miscellaneous
+# miscellaneous
 
 ```
 If you like this package do follow me on github.
