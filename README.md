@@ -72,3 +72,9 @@ Don't forget to add unique "id" for your input field
 </span>
 
 ```
+#miscellaneous
+
+```
+If you like this package do follow me on github.
+
+```
