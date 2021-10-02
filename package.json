@@ -1,0 +1,24 @@
+{
+  "name": "currency-amount-input-format",
+  "version": "1.0.0",
+  "description": "Currency amount input formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://devindia@github.com/devindia/currency-amount-input-format.git"
+  },
+  "keywords": [
+    "currency-formatter",
+    "currency-amount-formatter",
+    "angular-currency-amount-format"
+  ],
+  "author": "Debasish Roy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devindia/currency-amount-input-format/issues"
+  },
+  "homepage": "https://github.com/devindia/currency-amount-input-format#readme"
+}
